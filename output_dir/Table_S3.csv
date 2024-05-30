@@ -1,0 +1,26 @@
+"Abbreviation","Full name","NPS-present","NPS-absent"
+"nps_MoodDysCurValue","Dysphoria",410,408
+"nps_DecIntCurValue","Anhedonia",357,454
+"nps_WtLossCurValue","Weight loss",401,401
+"nps_DecAppCurValue","Decreased appetite",415,386
+"nps_WtGainCurValue","Weight gain",41,761
+"nps_EarlyInsomCurValue","Early insomnia",93,676
+"nps_MidInsomCurValue","Middle insomnia",73,694
+"nps_LateInsomCurValue","Late insomnia",91,682
+"nps_HypersomCurValue","Hypersomnia",23,766
+"nps_PsychoAgiCurValue","Psychomotor agitation",438,390
+"nps_PsychoRetardCurValue","Psychomotor retardation",88,723
+"nps_FatCurValue","Fatigue",438,379
+"nps_WorthCurValue","Worthlessness",67,730
+"nps_DelCurValue","Delusional worthlessness",53,746
+"nps_RumCurValue","Ruminations",391,428
+"nps_ThoughtDeathCurValue","Suicidal ideations",91,717
+"nps_Last2WkCurValue","Depression (current to 2 weeks)",254,558
+"nps_SixMoCurValue","Depression (current to 6 months)",268,541
+"nps_LifeCurValue","Depression (lifetime)",251,528
+"Sleep_WeightGain_Guilt_Suicide","Aggregated__Sleep_WeightGain_Guilt_Suicide",103,188
+"WeightLoss_PMA","Aggregated__WeightLoss_PMA",278,46
+"Depression_Mood","Aggregated__Depression_Mood",152,154
+"Sleep_WeightGain_Guilt_Suicide","Aggregated__Sleep_WeightGain_Guilt_Suicide",103,188
+"WeightLoss_PMA","Aggregated__WeightLoss_PMA",278,46
+"Depression_Mood","Aggregated__Depression_Mood",152,154
